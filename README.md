@@ -47,14 +47,9 @@ Let's see a short video of our application:
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
 
+Project Graph:
 
-Example of folder with the saved frames from detection event:
- 
- ![Preview Folder](https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/76440b46-4d9d-4e74-8c4b-1050e967fd2b)
-
+![Image](https://github.com/user-attachments/assets/549354ab-4cf3-4417-9a6c-39c47bb3046e)
 
 
-Example of the text file with detections events and application information:
-
-![Preview Text](https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/f698a65a-992f-4e04-8d67-d83f2427922a)
 
