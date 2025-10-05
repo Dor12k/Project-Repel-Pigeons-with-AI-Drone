@@ -1,6 +1,21 @@
 
 # **Project: CNN and OpenCV in Real Time**
 
+
+
+
+Let's see a short video of our application:
+
+https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
+
+
+Project Graph:
+
+![Image](https://github.com/user-attachments/assets/549354ab-4cf3-4417-9a6c-39c47bb3046e)
+
+
+
+
 ## **Repel Pigeons with AI Drone** 
 
 In this project, we implement algorithms for **Movement Detection**, **Object Detection**, and **Object Tracking**. <br>
@@ -40,16 +55,3 @@ The application consists of a window divided into six screens:
   6. **Drone Radar:** Synchronizes with the drone's movements and distance. <br>
 
 The application utilizes **TensorFlow** with **Keras** in **Python**.
-
-
-Let's see a short video of our application:
-
-https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
-
-
-Project Graph:
-
-![Image](https://github.com/user-attachments/assets/549354ab-4cf3-4417-9a6c-39c47bb3046e)
-
-
-
