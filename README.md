@@ -1,27 +1,29 @@
 
-# **Project: CNN and OpenCV in Real Time**
+# **AI Drone | Autonomous Pigeon Repelling with CNN & OpenCV 🐦🤖**
 
 
 
 
-Let's see a short video of our application:
+## <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://private-user-images.githubusercontent.com/107938584/245761996-a852af70-bcc8-4bc4-b4ee-435e4684a480.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk3NzAzNjYsIm5iZiI6MTc1OTc3MDA2NiwicGF0aCI6Ii8xMDc5Mzg1ODQvMjQ1NzYxOTk2LWE4NTJhZjcwLWJjYzgtNGJjNC1iNGVlLTQzNWU0Njg0YTQ4MC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwNlQxNzAxMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODFmMzkxMzU4ZjQwOGY2NWVjNTA4ZjBiNjJhODA5MmY4ZGZmMjQ0MmFjODJlNTFjZDEwNGYzM2EyN2E0ODQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.f2OOFOfpCpHRjfgLuQS6txGr6Jr01ywwHruTxdkEFy0)
 
 https://github.com/Dor12k/Project-Expel-Pigeons-with-AI-Drone/assets/107938584/a852af70-bcc8-4bc4-b4ee-435e4684a480
 
 
-Project Graph:
+## System Architecture:
 
 ![Image](https://github.com/user-attachments/assets/549354ab-4cf3-4417-9a6c-39c47bb3046e)
+Visual representation of modules and data flow: Movement Detection, Object Detection, Object Tracking, AI Model.
 
-
-
+<br>
 
 ## **Repel Pigeons with AI Drone** 
 
 In this project, we implement algorithms for **Movement Detection**, **Object Detection**, and **Object Tracking**. <br>
 Our system recognizes movement in video frames, detects objects, and tracks them in real-time using a camera. <br>
 We utilize the **ResNet50** model with **Transfer Learning** techniques on the **CIFAR-10** dataset, achieving an **accuracy of 95%**.
+
 <br>
+
 ### Project Overview
 
 **Part 1 - Deep Learning:** <br>
