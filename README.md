@@ -1,5 +1,5 @@
 
-# **AI Drone | Autonomous Pigeon Repelling with CNN & OpenCV 🐦🤖**
+## **AI Drone | Autonomous Pigeon Repelling with CNN & OpenCV 🐦🤖**
 
 
 
