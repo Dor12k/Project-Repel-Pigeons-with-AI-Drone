@@ -1,9 +1,12 @@
 
 ## **AI Drone | Autonomous Pigeon Repelling with CNN & OpenCV 🐦🤖**
 
-An AI-powered drone system using **Deep Learning** and **Computer Vision** to implement **Object Detection**, **Object Tracking** and **autonomous flight** for repelling pigeons in real time and reducing garden pest damage.  
-Built with **TensorFlow**, **OpenCV**, **NumPy**, and **Python**, featuring autonomous flight, GPS simulation, and motion-triggered object detection.  
-Demonstrates hands-on experience in AI model training, real-time systems, and autonomous robotics.
+
+An AI-powered drone system using **Deep Learning** and **Computer Vision** to implement **Object Detection**, **Object Tracking**, and 
+**Autonomous Flight** for repelling pigeons in real time and reducing garden pest damage.  
+Built with **TensorFlow**, **OpenCV**, **NumPy**, and **Python**, featuring GPS simulation and motion-triggered detection.  
+Demonstrates hands-on experience in **AI model training**, **real-time systems**, and **autonomous robotics**.
+
 
 
 ## <img width="40" height="30" alt="Image" src="https://github.com/user-attachments/assets/567d1706-facf-437a-aaca-9f82ccbe51dd" /> Watch the video [here](https://private-user-images.githubusercontent.com/107938584/245761996-a852af70-bcc8-4bc4-b4ee-435e4684a480.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk3NzAzNjYsIm5iZiI6MTc1OTc3MDA2NiwicGF0aCI6Ii8xMDc5Mzg1ODQvMjQ1NzYxOTk2LWE4NTJhZjcwLWJjYzgtNGJjNC1iNGVlLTQzNWU0Njg0YTQ4MC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwNlQxNzAxMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODFmMzkxMzU4ZjQwOGY2NWVjNTA4ZjBiNjJhODA5MmY4ZGZmMjQ0MmFjODJlNTFjZDEwNGYzM2EyN2E0ODQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.f2OOFOfpCpHRjfgLuQS6txGr6Jr01ywwHruTxdkEFy0)
