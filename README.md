@@ -1,5 +1,5 @@
 
-# **AI Drone | Autonomous Pigeon Repelling with CNN & OpenCV 🐦🤖**
+## **AI Drone | Autonomous Pigeon Repelling with CNN & OpenCV 🐦🤖**
 
 An AI-powered drone system using Deep Learning and Computer Vision to detect, track, and repel pigeons in real time.  
 Built with TensorFlow, OpenCV, and Python, featuring autonomous flight, GPS simulation, and motion-triggered object detection.  
